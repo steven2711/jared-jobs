@@ -1,0 +1,43 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+main {
+  height: 110vh;
+
+  background-color: black;
+}
+
+.image-box {
+  width: 50%;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 500px) {
+  .image-box {
+    width: 100%;
+  }
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding: 0 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
