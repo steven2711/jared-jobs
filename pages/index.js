@@ -25,7 +25,7 @@ export default function Home() {
         </div>
 
         <h1>
-          My name is Jared Collee and I fucking love Apple products. I wish
+          My name is Jared and I fucking love Apple products. I wish
           Steve Jobs was alive today to be my sugar daddy and maybe... a little
           more. Please share my love for Apple with everyone you know via this
           link.
